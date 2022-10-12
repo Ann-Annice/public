@@ -9,6 +9,9 @@ export class PublicComponent implements OnInit {
 
   constructor() { }
 
+  
+  publicData={}
+
   ngOnInit(): void {
   }
 
